@@ -2,8 +2,8 @@ package Gambling;
 
 public class gamblingSimulation {
 	public static void main(String[] args) {
-        int everydayStake=100;
-        int betperday=1;
+        int EVERY_DAY_STAKE=100;
+        int BET_PER_DAY=1;
       
 
 }
